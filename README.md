@@ -1,2 +1,3 @@
-# Training-simple-classification-algorithms-for-Machine-Learning
-In this repository, I'll be explaining how to train some simple machine learning algorithms for classification purposes. 
+# Training simple classification algorithms for Machine Learning
+
+To sum up what exactly we'll be doing here, we are going to build an intuition for machine learning algorithms. We'll be using Pandas, NumPy, and Matplotlib to read in, process, and visualize our data. Finally, implementing few classification algorithms in Python
