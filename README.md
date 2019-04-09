@@ -1,3 +1,4 @@
-# Training simple classification algorithms for Machine Learning
+# Training simple classification algorithms for machine learning
 
-To sum up what exactly we'll be doing here, we are going to build an intuition for machine learning algorithms. We'll be using Pandas, NumPy, and Matplotlib to read in, process, and visualize our data. Finally, implementing few classification algorithms in Python
+To sum up what exactly I have done in this repository, I have trained some simple classification algorithms for machine learning. At first, I implemented a simple Perceptron algorithm in Python, and later on an Adaptive linear neuron is implemented in Python.
+
